@@ -30,13 +30,6 @@ To get a local copy up and running, follow these steps:
 Node.js installed (version 14.x or higher).
 npm or yarn package manager.
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/amandiu/GENIUS_CAR.git
-cd GENIUS_CAR
-```
-
 ### Install Dependencies
 
 ```bash
